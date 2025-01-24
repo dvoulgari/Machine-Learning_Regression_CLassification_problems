@@ -1,6 +1,7 @@
 # Machine-Learning_Regression_CLassification_problems
 
 `Problem 1` : Linear Regression problems
+
 `Problem 2` : - 1) k-NN algorithm implementation from scratch 
               - 2) Bayes Classifiers algortihms from scratch
               
