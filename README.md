@@ -2,7 +2,10 @@
 
 `Problem 1` : Linear Regression problems
 
-`Problem 2` : - 1) k-NN algorithm implementation from scratch 
+`Problem 2` : 
+                
+              - 1) k-NN algorithm implementation from scratch 
+
               - 2) Bayes Classifiers algortihms from scratch
               
               
