@@ -9,6 +9,3 @@
               - k-NN algorithm implementation from scratch 
 
               - Bayes Classifiers algortihms from scratch
-              
-              
-  [MACHINE LEARNING 1st assignment 2024-2025.pdf](https://github.com/user-attachments/files/18536534/MACHINE.LEARNING.1st.assignment.2024-2025.pdf)
