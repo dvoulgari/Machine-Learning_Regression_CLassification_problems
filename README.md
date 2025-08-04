@@ -17,6 +17,8 @@
 ```
 data/        # Datasets
 notebooks/   # Jupyter notebooks
+Assignment Instructions
+README.md
 ```
 ---
 ## Features
