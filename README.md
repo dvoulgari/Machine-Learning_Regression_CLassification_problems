@@ -10,11 +10,12 @@
 3) Naive Bayes Classifier – implemented from scratch
    
 ## Datasets
-Rice (Cammeo & Osmancik) – Grain classification
-Breast Cancer – Tumor diagnosis (binary classification)
+- Rice (Cammeo & Osmancik) – Grain classification
+- Breast Cancer – Tumor diagnosis (binary classification)
 
 ## Structure
 data/        # Datasets
+
 notebooks/   # Jupyter notebooks
 
 ## Features
