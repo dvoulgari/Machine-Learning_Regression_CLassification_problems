@@ -1,8 +1,8 @@
 # Introduction to Machine Learning – Assignment 1
 
-Group Project (3 Members)
-Language: Python
-Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `operator`
+- Group Project (3 Members)
+- Language: **Python**
+- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `operator`
 
 ## Tasks
 1) Linear Regression
